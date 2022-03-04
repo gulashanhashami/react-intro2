@@ -2,6 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  //create component and use it
   const arr=["Android", "Blackberry", "iPhone", "Windows Phone"];
   const arr1=["Samsung", "HTC", "Micromax", "Apple"]
   return (
